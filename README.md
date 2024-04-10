@@ -19,3 +19,6 @@
   </div>
   <br> 
 </div>
+
+### Meus Resumos de Estudos
+ - [Conceitos de Trait, Interface e Abstract com PHP ](https://github.com/wesllycode/traitinterfaceabstract)
