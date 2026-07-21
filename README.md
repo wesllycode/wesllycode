@@ -8,17 +8,34 @@
     <a href="https://www.linkedin.com/in/weslly-sousa-a0bb2647/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div> 
 <br>
-  <div>
-    <a href="https://github.com/wesllycode">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesllycode&layout=compact&langs_count=7&$count_privte=true&theme=dark"/>
-  </div>   
-  <br>
-   <div>
-    <a href="https://github.com/wesllycode">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesllycode&count_private=true&show_icons=true&theme=dark"/>
-  </div>
-  <br> 
+
+  <div>   
+    
+   [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=wesllycode&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=vue-dark)](https://github-stats-extended.vercel.app/api?username=wesllycode&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=vue-dark)
+
+   
+  </div>  
+
 </div>
+<div>
+  <h1>BACK-END</h1>
+  
+[![My Skills](https://skillicons.dev/icons?i=php,laravel)](https://skillicons.dev)  
+</div>
+<div>
+  <h1>FRONT-END</h1>
+  
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwindcss)](https://skillicons.dev)
+  
+</div>
+<div>
+  <h1>OTHERS</h1>
+  
+  [![My Skills](https://skillicons.dev/icons?i=vscode,sublime,phpstorm,postman,photoshop,bitbucket,gitlab)](https://skillicons.dev)
+  
+</div>
+
+
 
 ### Meus Resumos de Estudos
  - [Conceitos de Trait, Interface e Abstract com PHP ](https://github.com/wesllycode/traitinterfaceabstract)
