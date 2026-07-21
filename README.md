@@ -23,7 +23,7 @@
 
 <br>
 
-### 💻 Minhas Skills
+### 💻 My Skills
 
 **BACK-END**  
 [![My Skills](https://skillicons.dev/icons?i=php,laravel)](https://skillicons.dev)  
